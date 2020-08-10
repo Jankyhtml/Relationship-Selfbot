@@ -96,7 +96,7 @@ async def Gay(ctx):
     await ctx.send('**Ive thought about it a million times and played all the scenarios in my head. You know sometimes when I am quiet and you ask me what I am thinking or what is wrong. Thats me playing out my options. I know that the easiest route to avoid all of this would be to keep my secret to myself so I dont rock our boat. I am Gay...**')
 
 @JANKY.command()
-async def ESEX(ctx):
+async def ESex(ctx):
     await ctx.message.delete()
     await ctx.send('**I want you to hold me so tight. I want you to lick me all over.I want to perform your art on me! I want to have every reason to moan and scream your name! I want you to kiss me so badly making me want you in sweet and reckless abandon! You are my sweet craving!**')
 
